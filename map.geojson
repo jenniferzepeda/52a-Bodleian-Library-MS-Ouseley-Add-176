@@ -28,7 +28,7 @@
    "geometry":{"type":"Point","coordinates":[3411,4078]}},
   {"type":"Feature","properties":
     {"id":4,
-    "chapter":"Chapter 4: A Sense of Authority,
+    "chapter":"Chapter 4: A Sense of Authority",
     "zoom":3,
     "image":"img/pictorial-st-louis-insane-asylum-03.png",
     "source-credit":"Source: Eric Erickson via Ancestry.com",
@@ -42,8 +42,7 @@
     "image":"img/pictorial-st-louis-cemetery.png",
     "source-credit":"Source: Library of Congress",
     "source-link":"https://lccn.loc.gov/2012586260",
-    "description":"Manuchihr is evidently the person in charge but not all of the praise is pointed toward him. In the image with King Manuchihr, the noblemen seem curious about the conversation. Still, they are also excited to be in the presence of Zal. The noblemen are depicted with their eyes pointing towards the conversation, but in the bottom right of the image, you can also see a conversation occurring between two men right behind Zal. It is possible that the men are conversing about Zal and his work on this journey. After all, in the story, he is referred to as the “well-beloved.” However, the noblemen are not the only ones who praise Zal. Manuchihr also praises Zal because Sam’s letter resolved many issues for him. While the praise should be going to the man in power (Manuchihr in this case), it is clear that Zal is the character that holds everyone’s attention in this moment. After all, his motivations and heroic actions are an appealing aspect of this story. Furthermore, his character is praised because of his successful journey. Zal was able to stop all the chaos that his love for Rudabeh started in the first place, and besides gaining the Shah’s blessing, he also helped Manuchihr, thus pleasing everyone in this kingdom.
-"},
+    "description":"Manuchihr is evidently the person in charge but not all of the praise is pointed toward him. In the image with King Manuchihr, the noblemen seem curious about the conversation. Still, they are also excited to be in the presence of Zal. The noblemen are depicted with their eyes pointing towards the conversation, but in the bottom right of the image, you can also see a conversation occurring between two men right behind Zal. It is possible that the men are conversing about Zal and his work on this journey. After all, in the story, he is referred to as the “well-beloved.” However, the noblemen are not the only ones who praise Zal. Manuchihr also praises Zal because Sam’s letter resolved many issues for him. While the praise should be going to the man in power (Manuchihr in this case), it is clear that Zal is the character that holds everyone’s attention in this moment. After all, his motivations and heroic actions are an appealing aspect of this story. Furthermore, his character is praised because of his successful journey. Zal was able to stop all the chaos that his love for Rudabeh started in the first place, and besides gaining the Shah’s blessing, he also helped Manuchihr, thus pleasing everyone in this kingdom."},
     "geometry":{"type":"Point","coordinates":[4333,3887]}},
   {"type":"Feature","properties":
     {"id":6,
@@ -79,6 +78,6 @@
     "image":"img/pictorial-st-louis-key.png",
     "source-credit":" ",
     "source-link":" ",
-    "description":"Zepeda, Jennifer (Researcher, Scriptwriter, Storyboarder, Audio Editor, Image Editor) and Hussein Keshani (Coder). \“Manuchihr praises Zal for his skills.\” In Ibrahim Sultan’s Shahnama: A Digital Art History Student Project, edited by Hussein Keshani, November 30, 2022."},
+    "description":"Zepeda, Jennifer (Researcher, Scriptwriter, Storyboarder, Audio Editor, Image Editor) and Hussein Keshani (Coder). \“Manuchihr praises Zal for his skills\” In Ibrahim Sultan’s Shahnama: A Digital Art History Student Project, edited by Hussein Keshani, November 30, 2022."},
     "geometry":{"type":"Point","coordinates":[0,0]}}
     ]}
