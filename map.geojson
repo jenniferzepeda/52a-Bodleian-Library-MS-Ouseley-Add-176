@@ -37,13 +37,13 @@
     "geometry":{"type":"Point","coordinates":[1957,3611]}},
   {"type":"Feature","properties":
     {"id":5,
-    "chapter":"Chapter 5: Flags & Standards",
-    "zoom":3,
+    "chapter":"Chapter 5: The Praise of Zal",
+    "zoom":2,
     "image":"img/pictorial-st-louis-cemetery.png",
     "source-credit":"Source: Library of Congress",
     "source-link":"https://lccn.loc.gov/2012586260",
-    "description":"\"...to the Cemeteries on the northwest. Every foot of the vast territory within these limits has been carefully examined and topographically drawn in perspective, by Mr. C. N. Dry and his assistants, and the faithfulness and accuracy with which this work has been done an examination of the pages will attest. Absolute truth and accuracy in the representation of the territory has been the standard and in no cases have additions or alterations been made unless the same were actually in course of construction. In a few cases, important public and private edifices that are not yet finished are shown completed, and as they will appear when done. All the buildings within the limits of the survey in July, 1875, are shown; and a very large number of those executed or commenced since that date have been also introduced, the pages having been constantly corrected up to the last possible moment before publication.\""},
-    "geometry":{"type":"Point","coordinates":[5030,2150]}},
+    "description":"Manuchihr is evidently the person in charge but not all of the praise is pointed toward him. In the image with King Manuchihr, the noblemen seem curious about the conversation. Still, they are also excited to be in the presence of Zal. The noblemen are depicted with their eyes pointing towards the conversation, but in the bottom right of the image, you can also see a conversation occurring between two men right behind Zal. It is possible that the men are conversing about Zal and his work on this journey. After all, in the story, he is referred to as the “well-beloved.” However, the noblemen are not the only ones who praise Zal. Manuchihr also praises Zal because Sam’s letter resolved many issues for him. While the praise should be going to the man in power (Manuchihr in this case), it is clear that Zal is the character that holds everyone’s attention in this moment. After all, his motivations and heroic actions are an appealing aspect of this story. Furthermore, his character is praised because of his successful journey. Zal was able to stop all the chaos that his love for Rudabeh started in the first place, and besides gaining the Shah’s blessing, he also helped Manuchihr, thus pleasing everyone in this kingdom."},
+    "geometry":{"type":"Point","coordinates":[4333,3887]}},
   {"type":"Feature","properties":
     {"id":6,
     "chapter":"Chapter 6: Flowers",
