@@ -46,13 +46,13 @@
     "geometry":{"type":"Point","coordinates":[4333,3887]}},
   {"type":"Feature","properties":
     {"id":6,
-    "chapter":"Chapter 6: Flowers",
-    "zoom":5,
+    "chapter":"Chapter 6: A focus on the stars",
+    "zoom":3,
     "image":"img/pictorial-st-louis-key.png",
     "source-credit":"Source: Library of Congress",
     "source-link":"https://lccn.loc.gov/rc01001392",
-    "description":"\"In dividing the work into pages, it will be seen that in, cases where a building is but partially drawn on one page, it is given complete on the adjoining page. In view of the magnitude of the work, the originality of the idea, and the difficulties encountered in carrying it out, it is hoped that if any mistakes or errors have crept into the plates or pages, they will be looked upon with a lenient eye by an indulgent public.\" (Dry & Compton)"},
-    "geometry":{"type":"Point","coordinates":[3945,2920]}},
+    "description":"Another important aspect of this image to focus on is the stars which determine Zal’s fate. Strangely, the stars are not depicted at this moment, but there is a large plant which seems to end right at the top of the window, showing that the men are at a very high point of this building, the optimal location for stargazing. Fortunately, at this point in the story, Zal has already received Manuchihr’s blessing and praise. After Manuchihr praises Zal for his skills, he directly gathers the noblemen, wise men and astrologers to read the stars. In this image, many vibrant colours are in the background, creating a sense of excitement, which is valuable to this scene because there is a lot of anticipation for this moment. For example, revealing the sky in the window is a bright orange curtain pulled back; the colour orange is known to represent enthusiasm and excitement. At this moment, everyone seems excited to know what the stars will reveal. Finally, after three days, they concluded what Zal’s fate would be. Manuchihr explains that Zal’s life should change for the better; apparently, the stars said that Zal will now obtain things such as prolonged life, more strength, and most important the ability to marry his beloved (Firdawsi, 1420-40, 307)."},
+    "geometry":{"type":"Point","coordinates":[2460,2412]}},
 {"type":"Feature","properties":
     {"id":7,
     "chapter":"Chapter 7",
